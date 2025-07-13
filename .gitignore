@@ -40,5 +40,10 @@
 # debug information files
 *.dwo
 
+
+## Original
 # img file
 *.img
+
+# firmware
+*.efi
